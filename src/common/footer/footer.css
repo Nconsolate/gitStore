@@ -1,0 +1,23 @@
+.footer-box{
+    width: 750px;
+
+}
+.footer-box ul{
+    width: 750px;
+    display: flex;
+    justify-content: space-around;
+}
+.colstyle{
+height: 80px;
+line-height: 80px;
+text-align: center;
+background:#2af799;
+border-radius: 20%;
+}
+.activeC{
+  background: red;
+  width:100%;
+  height: 100%;
+  border-radius: 20%;
+  color:white
+}

@@ -1,0 +1,13 @@
+.express-box{
+    width:750px;
+    flex:1;
+    
+    overflow-x:hidden;
+    overflow-y: auto;
+}
+.ant-timeline{
+    padding-left: 50px;
+}
+.ant-timeline-item-content span{
+font-size: 18px!important;
+}
