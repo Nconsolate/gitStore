@@ -1,4 +1,4 @@
-﻿# <center>v-react-project</center>
+﻿# v-react-project
 
 ### 项目简介
 ```  
@@ -152,10 +152,7 @@ fiddler抓取的快递100的自动识别查询。申请的话不如直接抓方�
             store.js                        中间件配置
             types.js                        类型定义
     ```
-
-![Image text](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2667614254,1653163809&fm=179&app=42&f=JPEG?w=121&h=121)  
-![Image text](https://github.com/Nconsolate/Growth/blob/v-react-project/GIFweather.gif)  
-![Image text](https://github.com/Nconsolate/Growth/blob/v-react-project/GIFweather2.gif)  
-![Image text](https://github.com/Nconsolate/Growth/blob/v-react-project/GIFmap.gif)  
+ 部分样式图
 ![Image text](https://raw.githubusercontent.com/Nconsolate/Growth/v-react-project/GIFhome.gif)  
-![elpx](https://github.com/Nconsolate/Growth/blob/v-react-project/elpx.jpg)
+![Image text](https://raw.githubusercontent.com/Nconsolate/Growth/v-react-project/GIFweather2.gif)  
+
