@@ -5,15 +5,18 @@
 基于react，ant-design实现的、部分查询功能的小项目。（残品  有时间在完善）
 
 ```  
-<center> github地址:https://github.com/Nconsolate/gitStore </center>
-<center> gitee地址:https://gitee.com/Nconsolate/giteeStore </center>
+github地址:https://github.com/Nconsolate/gitStore   
+  
+gitee地址:https://gitee.com/Nconsolate/giteeStore  
 
 
 ## 1，安装
  
- **git clone  git clone git@github.com:Nconsolate/gitStore.git**   或者
+ **git clone  git clone git@github.com:Nconsolate/gitStore.git**  
+   
+ 或者  
  
-  **git clone  git clone git@gitee.com:Nconsolate/giteeStore.git**
+ **git clone  git clone git@gitee.com:Nconsolate/giteeStore.git**
 
 ## 2，使用
 
