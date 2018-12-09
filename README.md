@@ -64,7 +64,8 @@ fiddler抓取的快递100的自动识别查询。申请的话不如直接抓方�
 快递地址的查询需要请求2个地址，将这2次请求封装到了异步action中了，用户只需输入快递单号，就能得到返回结果。 
 
 快递api的调用涉及了跨域，原使用fetch-jsonp进行跨域的，返回格式不对，就使用proxy进行反向代理跨域。在packge.json
-加proxy :'http://www.kuaidi100.com' 就可以省略其进行跨域了。如url可以写成'/autonumber/autoComNum?resultv2=1&text=快递号'
+加proxy :'http://www.kuaidi100.com' 就可以省略其进行跨域了。如url可以写成'/autonumber/autoComNum?resultv2=1&text=快递号'  
+线上使用nginx反向代理实现。
 
 
 ###### 界面实现  
