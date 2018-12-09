@@ -153,9 +153,5 @@ fiddler抓取的快递100的自动识别查询。申请的话不如直接抓方�
             types.js                        类型定义
     ```
 
-![Image text](http://github.com/Nconsolate/Growth/blob/v-react-project/express.gif)  
-![Image text](https://github.com/Nconsolate/Growth/blob/v-react-project/GIFweather.gif)  
-![Image text](https://github.com/Nconsolate/Growth/blob/v-react-project/GIFweather2.gif)  
-![Image text](https://github.com/Nconsolate/Growth/blob/v-react-project/GIFmap.gif)  
-![Image text](https://github.com/Nconsolate/Growth/blob/v-react-project/GIFhome.gif)  
-![elpx](https://github.com/Nconsolate/Growth/blob/v-react-project/elpx.jpg)
+
+##### 演示地址:http://106.12.29.205:8081
