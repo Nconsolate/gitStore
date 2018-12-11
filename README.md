@@ -12,11 +12,11 @@ gitee地址:https://gitee.com/Nconsolate/giteeStore
 
 ## 1，安装
  
- **git clone  git clone git@github.com:Nconsolate/gitStore.git**  
+ **git clone git@github.com:Nconsolate/gitStore.git**  
    
  或者  
  
- **git clone  git clone git@gitee.com:Nconsolate/giteeStore.git**
+ **git clone git@gitee.com:Nconsolate/giteeStore.git**
 
 ## 2，使用
 
