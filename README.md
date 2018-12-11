@@ -28,7 +28,7 @@ gitee地址:https://gitee.com/Nconsolate/giteeStore
 
 默认端口为3000
 
-##### 在线查看地址：  http://106.12.29.205:8081
+##### 在线查看地址：  http://47.101.199.141:8081/
 
 
 ## 技术
